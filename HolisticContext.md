@@ -82,6 +82,8 @@ I am currently working with the current resources:
 - I am in control of what I work on
 - All strategic decisions are made within this holistic context and with reference to the 8 forms of capital
 - I read books, use the internet and may attend residential courses, I try to encourage knowledgeable visitors from whom I can learn
+- I continuously observe, study and monitor the life on my land
+- I record all my activities and their effects
 - I build facilities and attractions for visitors, remain in active contact with friends and family and regularly invite people to the land. I actively make connections in the local community and always think about what/how I can offer to people
 - Where practical I produce what I like to eat, and where impractical I find a local supplier. I invest in capital to preserve food for the winter months
 - I draw down financial capital to fund other more productive forms, once my financial capital is exhausted I will invest only profits. I minimize outgoings and utilize waste streams where possible
