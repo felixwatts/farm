@@ -20,17 +20,22 @@ I am currently working with the current resources:
 
 ## Experiential
 
+- Some WWOOFing
+- Some allotmenting
+
 ## Spiritual
 
 ## Intellectual
 
 - Basic education
 - Some reading on organic/urban/small scale/regenerative ag
+- Permaculture Design Course
 - Driving license
 
-## Social
+## Social
 
-- Enthusiasm from my mother and one cousin
+- Enthusiastic family members
+- Aunt with good horticultural knowledge
 
 ## Material
 
@@ -46,6 +51,8 @@ I am currently working with the current resources:
 ## Cultural
 
 - Access to materials from pioneering new-wave farmers
+- High and increasing cultural awareness of climate change
+- High and increasing cultural desire for good local food
 
 # Statement of Purpose
 
