@@ -61,6 +61,7 @@ I am currently working with the current resources:
 1. Regenerate ecosystems by building topsoil, biodiversity and water resilience
 1. Curate, study, nurture and occupy a beautiful little ecosystem
 1. Help build a community and network of regenerative farmers in SW england
+1. Do not contribute to climate or ecological destruction
 
 # Quality of Life Statements
 
