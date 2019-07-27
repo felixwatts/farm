@@ -48,7 +48,7 @@ I am currently working with the current resources:
 
 - Good grass in field?
 
-## Cultural
+## Cultural
 
 - Access to materials from pioneering new-wave farmers
 - High and increasing cultural awareness of climate change
