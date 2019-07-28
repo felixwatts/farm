@@ -65,6 +65,7 @@ I am currently working with the current resources:
 
 # Quality of Life Statements
 
+- I am fit and healthy 
 - I enjoy my daily routine
 - I contribute consistently to projects that promote my values
 - I continuously build my capital in all forms
@@ -76,8 +77,9 @@ I am currently working with the current resources:
 - I am debt free
 - I am self sufficient in water, electric power and heat
 
-# Forms fo Production
+# Forms of Production
 
+- I have exercise built into my daily routine and I am not regularly exposed to high levels of air pollution
 - My workload is manageable, my commute is short or none and my enterprises involve wide variety of tasks, most of which I enjoy
 - I am in control of what I work on
 - All strategic decisions are made within this holistic context and with reference to the 8 forms of capital
