@@ -30,7 +30,7 @@ The seedlings do not require full sun
 
 ## Buying
 
-Always buy bare-root where possible. Some good suppliers can be found in [./Resources.md](Resources)
+Always buy bare-root where possible. Some good suppliers can be found in [Resources](Resources.md)
 
 ## Planting
 
