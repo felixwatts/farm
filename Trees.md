@@ -28,6 +28,12 @@ Seeds should be planted in a free draining potting compost incorporating so e sl
 
 The seedlings do not require full sun
 
+## Buying
+
+Always buy bare-root where possible.
+
+A good supplier: [Frank Matthews](https://www.frankpmatthews.com/)
+
 ## Planting
 
 The care taken when planting a tree can have a dramatic effect on the vigor of the tree, especially in the first few years. When planting a tree there are three main considerations:
