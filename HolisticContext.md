@@ -88,7 +88,8 @@ I am currently working with the current resources:
 - I record all my activities and their effects
 - I build facilities and attractions for visitors, remain in active contact with friends and family and regularly invite people to the land. I actively make connections in the local community and always think about what/how I can offer to people
 - Where practical I produce what I like to eat, and where impractical I find a local supplier. I invest in capital to preserve food for the winter months
-- I draw down financial capital to fund other more productive forms, once my financial capital is exhausted I will invest only profits. I minimize outgoings and utilize waste streams where possible
+- I draw down financial capital to fund other more productive forms, once my financial capital is exhausted I will invest only profits
+- I minimize energy and material inputs, and source locally where possible and from waste streams where possible
 - I use my financial capital to install energy and water harvesting and storage infrastructure
 - I work smart, rather than hard, I study the existing ecosystem and try to design minor adjustments that will make existing systems work in my favor, rather than replacing them with something else
 
@@ -105,6 +106,8 @@ I am currently working with the current resources:
 - A sufficient off-grid water supply
 - A sufficient off-grid, renewable electricity supply
 - An internet connection on the land
+- Useful plant varieties adapted to my land
+- A well organized and complete record of my activities and finances
 
 
 
