@@ -30,9 +30,7 @@ The seedlings do not require full sun
 
 ## Buying
 
-Always buy bare-root where possible.
-
-Some good suppliers: [Frank Matthews](https://www.frankpmatthews.com/) [Buckingham Nurseries](https://www.hedging.co.uk/acatalog/index.html), [Ash Ridge](https://www.ashridgetrees.co.uk)
+Always buy bare-root where possible. Some good suppliers can be found in [Resources.md](Resources)
 
 ## Planting
 
