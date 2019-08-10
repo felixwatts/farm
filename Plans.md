@@ -34,15 +34,16 @@ https://pfaf.org/user/Default.aspx
 
 ### Authors
 
-| Name | Topics | Notes | Books Read |
-|------|--------|-------|------------|
-| John Jevaons | regenerative-agriculture market-gardening biointensive | | |
-| Eliot Coleman | regenerative-agriculture market-gardening four-season-harvest | | The New Organic Grower |
-| Jean Martin Fortier | regenerative-agriculture market-gardening | |
-| Allan Savory | regenerative-agriculture holistic-management | |
-| P A Yeomans | regenerative-agriculture keyline-design | |
-| Joel Salatin | regenerative-agriculture beef pasturing | |
-| Ethan Roland | regenerative-enterprise | | 
+| Name | Topics | Notes | Books Read | Books to Read |
+|------|--------|-------|------------|---------------|
+| John Jevaons | regenerative-agriculture market-gardening biointensive | | | |
+| Eliot Coleman | regenerative-agriculture market-gardening four-season-harvest | | The New Organic Grower | |
+| Jean Martin Fortier | regenerative-agriculture market-gardening | | |
+| Allan Savory | regenerative-agriculture holistic-management | | |
+| P A Yeomans | regenerative-agriculture keyline-design | | |
+| Joel Salatin | regenerative-agriculture beef pasturing | | |
+| Ethan Roland | regenerative-enterprise | | |
+| J Russel Smith | silvaculture | | | Tree Crops |
 
 ### Concepts
 
