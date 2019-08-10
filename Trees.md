@@ -18,7 +18,7 @@ If both scarification and stratification are required then always scarify first.
 
 ### Potting Up
 
-Once seeds have germinated they must be planted in a nursery pot where they will grow to a strength that they can be planted out. The best type of nursery pot to use is called a _root trainer_. This is a special type of pot that has two useful features: 
+Once seeds have germinated they must be planted in a nursery pot where they will grow to a strength that they can be planted out. The best type of nursery pot to use is called a [Root trainer](https://www.lbsbuyersguide.co.uk/maxi-rootrainer.html). This is a special type of pot that has two useful features: 
 
 The pot has a tall thin shape and vertical grooves in the side encourage the roots to grow downwards which prevents the tree becoming root bound. Once a plant has become root bound in a pot it can never fully recover. When the roots reach the bottom of the pot the are _air pruned_ by contact with the air.
 
@@ -26,7 +26,7 @@ Root trainers can also be opened from a hinge at the bottom meaning tha the seed
 
 Seeds should be planted in a free draining potting compost incorporating so e slow release NPK fertilizer pellets.
 
-The seedlings do not require full sun
+The seedlings do not require full sun.
 
 ## Buying
 
@@ -61,9 +61,15 @@ Plant the tree into the hole using the same soil you removed, try not to mix the
 
 Mulch the tree with about 80l of fungal compost spread over a 50cm radius. On top of the compost spread 5-10 cm of wood chip. Make sure to keep the mulch away from the tree trunk. These high-carbon materials will begin to promote a fungal based soil ecosystem which mimics the forest where the tree naturally grows.
 
+Rather than compost and wood chip you can also use either hessian sacking material or a commercial mulch mat (biodegradable tree mulch mats can be bought online). These are easier to install that wood chip and compost due to being smaller and lighter. Even if you do use a mulch mat directly around the tree, it may still be a good idea to use a donut of fungal compost and/or wood chip beyond that to contribute to the fungal soil life.
+
+### Apply Soil Amendments
+
+You may wish to apply soil amendments such as Rock Dust or [Seaweed Extract](https://www.garden-goodies.co.uk/acatalog/Maxicrop-Original-Seaweed-Stimulant-10L.html) in order to ensure there is a good broad spectrum micronutrient availability within the root zone. Amendments should be applied to the outer endges of the tree's root zone, not at the trunk, so that roots are encouraged to grow outward.
+
 ### Protect the Tree from Animals
 
-Use a spiral tree protector to prevent animals from eating the tree.
+Use a [spiral tree guard](https://www.ashridgetrees.co.uk/spiral-tree-guards) to prevent animals from eating the tree. If deer are present a [heavy duty tree guard](https://www.ashridgetrees.co.uk/ashridge-heavy-duty-tree-guards) may be required.
 
 ### Water Thoroughly
 
@@ -71,11 +77,15 @@ Water the tree very thoroughly. If all is well this is the only time you will ev
 
 ###  Field Scale Plating Using a Ripper and Bed Former
 
-A _Ripper_, _Subsoiler_ or _Keyline Plough_ is a rigid tined, non-inverting plough that can be used to decompact soil up to 80cm deep without exposing bare earth. A _Bed Former_ is another tractor implement that forms a tilled raised bed in one pass.
+A _Ripper_, _Subsoiler_ or [Keyline Plough](http://yeomansplow.com.au/) is a rigid tined, non-inverting plough that can be used to decompact soil up to 80cm deep without exposing bare earth. A [Bed Former](https://www.machines-simon.com/en/our-machines/soil-preparation/twin-rotor-bed-former/single-cultirateau/15-cultirateau-reinforced-bed-former.html) is another tractor implement that forms a tilled raised bed in one pass.
 
 By first ripping with the Subsoiler and then passing with the bed former you can create a strip of deeply decompacted and surface decompacted soil suitable and easy to plant trees into on a large scale.
 
 After planting you should mulch as above and also seed ground cover to fix the bare earth situation. 
+
+### Mycorrhizal Inoculation
+
+Mycorryhza are fungi that form a symbiotic relationship with plants within the root zone. A healthy population of mycorrhyza within a tree's root zone will positively effect its vigor. Therefore, when planting a tree in a bacterially dominated soil, such as pasture, it may be beneficial to kickstart the mycorrhyzal population by innoculation. Products exist to help with this, such as [RootGrow](http://rootgrow.co.uk/products/).
 
 ## Maintenance
 

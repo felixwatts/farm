@@ -8,14 +8,17 @@
 | [Frank Matthews](https://www.frankpmatthews.com/) | `trees` | |
 | [Buckingham Nurseries](https://www.hedging.co.uk/acatalog/index.html) | `plants` | |
 | [Ash Ridge](https://www.ashridgetrees.co.uk) | `trees` | |
+| [Broadfork Supplier](http://www.blackberrylane.co.uk/broadfork.html) | `tools` | |
 
 ## Plant Information
 
 | Source | Notes |
 |--------|-------|
-| [Plants for a Future](https://pfaf.org/user/Default.aspx) | Online database of edible and medicinal plants based on research from Cornwall |
-| [Apios Institute](https://apiosinstitute.org) | Wiki of perennial polyculture resources |
-
+| [Plants for a Future](https://pfaf.org/user/Default.aspx) | Over 7,000 useful plants for temperate climates. |
+| [Apios Institute](https://apiosinstitute.org) | Wiki of perennial polyculture resources for cold climates. |
+| [Food Plants International](http://foodplantsinternational.com/) | Global database of 18,000 edible plants. |
+| [The Plant List](http://www.theplantlist.org/) | Correct scientific names for almost world 300,000 species. |
+| [UK Perrenials](https://drive.google.com/file/d/1ywyYtJyxDJgiuitNdb93JvJ4xKX73Zsk/view?usp=sharing) | List of useful perennials for UK climate |
 
 ## Authors
 
@@ -28,7 +31,16 @@
 | P A Yeomans | regenerative-agriculture keyline-design | | |
 | Joel Salatin | regenerative-agriculture beef pasturing | | |
 | Ethan Roland | regenerative-enterprise | | |
-| J Russel Smith | silvaculture | | | Tree Crops |
+| J Russel Smith | agroforestry | | | Tree Crops: A Permanent Agriculture |
+| Andrew Gordon and Steven Newman | agroforestry | | | Temperate Agroforestry Systems |
+| David Jacke and Eric Toensmeier | agroforestry | | | Edible Forest Gardens Volume 1 & 2 |
+| Mark Shepard | agroforestry | | | Restoration Agriculture |
+| Ken Fern | agroforestry | | | Plants For a Future |
+| R.J. Garner | agroforestry | | | The Grafter’s Handbook |
+| Paul Stamets | agroforestry | | | Growing Gourmet and Medicinal Mushrooms |
+| Jean-Marie Lespinasse and Evelyne Leterme | agroforestry | | | Growing fruit trees |
+| Owen Johnson and Davis More | agroforestry | | | Collins Tree Guide |
+| Eric Toensmeier | agroforestry | | | The Carbon Farming Solution |
 
 ## Concepts
 
