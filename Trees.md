@@ -38,7 +38,7 @@ The care taken when planting a tree can have a dramatic effect on the vigor of t
 
 1. Decompact the rooting zone to enable rapid root development
 1. Prevent competition with grass and other annuals
-1. Establish a fungal dominated soil ecosystem
+1. Establish a fungal dominated soil ecosystem (more info [here](https://drive.google.com/file/d/1S6bOMqe6XYIkKCZHTpzImGlMrWeln7yN/view?usp=sharing))
 
 ### Dig the Hole
 
