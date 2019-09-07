@@ -10,6 +10,11 @@
 | [Ash Ridge](https://www.ashridgetrees.co.uk) | `trees` | |
 | [Broadfork Supplier](http://www.blackberrylane.co.uk/broadfork.html) | `tools` | |
 | [Irrigation Systems](http://www.access-irrigation.co.uk/) | `tools` | |
+| [Cardboard Roll](https://starlightpackaging.co.uk/roll-x-750mm-30-x-75mtr-corrugated-paper/?gclid=Cj0KCQjwqs3rBRCdARIsADe1pfSJDHjhSdZwfBEE_ubhfMD7QD4gKvQKsMXMBlMR3biz3vVoRtDakLEaAjjmEALw_wcB) | `materials` | |
+| [Compost](#) | `materials` | |
+| [Rock Dust](#) | `materials` | |
+| [Oyster Shell](#) | `materials` | |
+| [Plastic Mulch](https://www.amazon.co.uk/Popamazing-Control-Nonwoven-Fabric-Biodegradable/dp/B074WMCKPP) | `materials` | Not sure if this is the best source. Need "heavy duty, non-woven plastic mulch" is this heavy duty? |
 
 ## Plant Information
 

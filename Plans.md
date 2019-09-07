@@ -6,7 +6,7 @@ I will use the "sections and beds" technique from Curtis Stone. This means secti
 
 ## Accommodation
 
-A-Frame cabin, fully glazed at front, no other glazing. The loca timber store (https://brookridgestore.com) does lengths up to 3m.  
+A-Frame cabin, fully glazed at front, no other glazing. The local timber store (https://brookridgestore.com) does lengths up to 6m.  
 
 ## Water
 
