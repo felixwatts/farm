@@ -11,12 +11,9 @@
 | [Broadfork Supplier](http://www.blackberrylane.co.uk/broadfork.html) | `tools` | |
 | [Irrigation Systems](http://www.access-irrigation.co.uk/) | `tools` | |
 | [Cardboard Roll](https://starlightpackaging.co.uk/roll-x-750mm-30-x-75mtr-corrugated-paper/?gclid=Cj0KCQjwqs3rBRCdARIsADe1pfSJDHjhSdZwfBEE_ubhfMD7QD4gKvQKsMXMBlMR3biz3vVoRtDakLEaAjjmEALw_wcB) | `materials` | |
-| [Compost](#) | `materials` | |
-| [Rock Dust](#) | `materials` | |
-| [Oyster Shell](#) | `materials` | |
-| [Plastic Mulch](https://www.amazon.co.uk/Popamazing-Control-Nonwoven-Fabric-Biodegradable/dp/B074WMCKPP) | `materials` | Not sure if this is the best source. Need "heavy duty, non-woven plastic mulch" is this heavy duty? |
 
-## Plant Information
+
+## Websites
 
 | Source | Notes |
 |--------|-------|
@@ -25,6 +22,7 @@
 | [Food Plants International](http://foodplantsinternational.com/) | Global database of 18,000 edible plants. |
 | [The Plant List](http://www.theplantlist.org/) | Correct scientific names for almost world 300,000 species. |
 | [UK Perrenials](https://drive.google.com/file/d/1ywyYtJyxDJgiuitNdb93JvJ4xKX73Zsk/view?usp=sharing) | List of useful perennials for UK climate |
+| [Soil and Health](https://soilandhealth.org/) | free downloadable e-books about radical agriculture, natural hygiene/nature cure and self-sufficient homestead living |
 
 ## Authors
 

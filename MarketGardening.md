@@ -2,7 +2,14 @@
 
 ## No Dig Permanent Raised Beds
 
-In this system, 75cm wide permanent beds are formed with 25cm paths in between. The beds are never dug or tilled, instead weeds are initially killed by a thick mulch of compost over winter and are subsequently suppressed by hand weeding, intensive spacings that out-compete weeds and subsequent additions of compost mulch.
+In this system, 75cm wide permanent beds are formed with 25cm paths in between. The beds are never dug or tilled, instead weeds are initially killed by a thick mulch of compost over winter and are subsequently suppressed by hand weeding, intensive spacings that out-compete weeds and subsequent additions of compost mulch. A [Broadfork](#broadfork) is used to decompact and aerate the soil without turning it.
+
+Digging is avoided for several reasons:
+
+1. It is unnecessary work
+1. Turning the soil actually kills a lot of the soil life, especially the fungal mycelium
+1. Turning the earth increases oxidation which releases carbon from the soil in the form of CO2, contributing to climate change and reducing the valuable carbon content of the soil
+1. Disturbing the soil brings weed seeds to the surface and creates the perfect conditions for pioneer species (aka weeds)
 
 The 75cm bed width is used for two reasons, first it is easy to straddle for comfortable working, secondly, there is a set of recently developed tools that are all designed to work with 75cm (30in) beds.
 
@@ -49,8 +56,6 @@ Any beds that are to be left empty over winter should be prepared in the followi
 
 ## Planting
 
-TODO
-
 ### Direct Seeding
 
 Direct seeding refers to planting seeds directly into a bed. It is the simplest form of planting and with today's tools is very efficient. To direct seed a newly prepared bed use the following procedure:
@@ -84,27 +89,19 @@ However you should consider...
 
 #### Seeding
 
-TODO
-
 #### Planting Out
 
 The [Paper Pot Transplanter](Tools.md#paper-pot-transplanter) is a tool to massively speed up the seeding and transplanting process, however [the jury is still out](https://www.lowimpact.org/could-the-paperpot-transplanter-be-a-boon-for-small-farmers-or-is-it-just-a-gimmick/) on whether it's worth it
 
-## Weeds
+## Irrigation
 
-TODO
+## Weeds
 
 ## Pests
 
-TODO
-
 ### Flea Beetle
 
-TODO
-
 ### Cabbage White Caterpillar
-
-TODO
 
 ### Slugs
 
@@ -128,27 +125,15 @@ The covering for a 10m bed should be cut to 1.5m x 11m. Once the structure is up
 
 ## Crop Rotation
 
-TODO
-
 ## Making Compost
-
-TODO
 
 ## Crop Specifics
 
-TODO
-
 ### Tomato
-
-TODO
 
 ### Lettuce
 
-TODO
-
 ### Radish
-
-TODO
 
 ### Turnip
 
@@ -188,12 +173,7 @@ Supplier [Amazon](https://www.amazon.co.uk/Popamazing-Control-Nonwoven-Fabric-Bi
 
 ### Compost
 
-TODO
-
 ### Stone Dust
 
-TODO
+### Oyster Shell
 
-###Oyster Shell
-
-TODO
