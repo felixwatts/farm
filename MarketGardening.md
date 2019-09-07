@@ -13,11 +13,11 @@ The length of the bed doesn't matter but all your beds should be the same length
 To form a new bed from pasture use the following procedure:
 
 1. After growth has ceased, measure out the bed and path
-1. Cover the bed with [corrugated packing cardboard](Resources.md#cardboard-roll)
-1. Cover the bed with a layer of [compost](Resources.md#compost) about 18-20cm thick
-1. Add any amendments such as [rock dust](Resources.md#rock-dust) or [oyster shell](Resources.md#oyster-shell)
+1. Cover the bed with [corrugated cardboard](#corrugated-cardboard-roll)
+1. Cover the bed with a layer of [compost](#compost) about 18-20cm thick
+1. Add any amendments such as [rock dust](#rock-dust) or [oyster shell](#oyster-shell)
 1. Fill the path with wood chip to the bed level or a few centimeters below
-1. Cover the bed with [plastic mulch](Resources.md#plastic-mulch)
+1. Cover the bed with [plastic mulch](#plastic-mulch)
 
 In spring you can prepare and plant the bed
 
@@ -29,15 +29,39 @@ To prepare a newly formed or newly harvested bed for the next planting, use the 
 1. Remove any weeds using the [Colinear Hoe](Tools.md#colinear-hoe) or [Korean Hoe](Tools.md#korean-hoe)
 1. [Broadfork](Tools.md#broadfork) the bed to decompact and aerate it
 1. Optionally apply 10cm of compost
-1. Apply any amendments such as [rock dust](Resources.md#rock-dust) or [oyster shell](Resources.md#oyster-shell)
+1. Apply any amendments such as [rock dust](#rock-dust) or [oyster shell](#oyster-shell)
 1. Using the [75cm Rake](Tools.md#75cm-rake) rake the bed level
 1. Using the [Bed roller](Tools.md#bed-roller) roll the bed to a smooth, firm surface
 
 The bed is now ready for transplanting or direct seeding
 
+### Preparing a Bed for Winter
+
+Any beds that are to be left empty over winter should be prepared in the following way:
+
+1. Using sequiturs remove any above ground hard woody material such as cabbage stalks
+1. Remove any weeds using the [Colinear Hoe](Tools.md#colinear-hoe) or [Korean Hoe](Tools.md#korean-hoe)
+1. [Broadfork](Tools.md#broadfork) the bed to decompact and aerate it
+1. Optionally apply 10cm of compost
+1. Apply any amendments such as [rock dust](#rock-dust) or [oyster shell](#oyster-shell)
+1. Using the [75cm Rake](Tools.md#75cm-rake) rake the bed level
+1. Cover the bed with [Plastic Mulch](#plastic-mulch)
+
 ## Planting
 
 ### Direct Seeding
+
+Direct seeding refers to planting seeds directly into a bed. It is the simplest form of planting and with today's tools is very efficient. To direct seed a newly prepared bed use the following procedure:
+
+1. Determine the row spacing and plant spacing you intend to use (see [Crop Specifics](#crop-specifics))
+1. Set up the [Six Row Seeder](#Tools.md#six-row-seeder) accordingly
+1. Determine how much seed (by weight) is required for the whole bed
+1. Using a milligram scales, weigh out the correct amount of seed
+1. Divide the seed into the hoppers of the seeder, using hoppers according to your determined row spacing
+1. Use the seeder to seed the bed, it will take two passes, since the seeder covers half a bed at a time
+1. Optionally cover the bed with a layer of [Horticultural Fleece](#horticultural-fleece) laid directly on the ground. This will slightly increase the temperature and humidity and may improve germination 
+
+TODO water?
 
 ### Transplanting
 
@@ -60,11 +84,35 @@ However you should consider...
 
 #### Planting Out
 
-The [Paper Pot Transplanter](Tools.md#paper-pot-transplanter) is a tool to massively speed up the seeding and transplanting process 
+The [Paper Pot Transplanter](Tools.md#paper-pot-transplanter) is a tool to massively speed up the seeding and transplanting process, however [the jury is still out](https://www.lowimpact.org/could-the-paperpot-transplanter-be-a-boon-for-small-farmers-or-is-it-just-a-gimmick/) on whether it's worth it
 
 ## Weeds
 
 ## Pests
+
+### Flea Beetle
+
+### Cabbage White Caterpillar
+
+### Slugs
+
+The best way to avoid slugs and snails is to avoid creating the right conditions for them in the garden. Slugs and snails feed mainly on rotting vegetable matter, so reduce that using the following policies:
+
+- Never make compost near the crops
+- Never apply unrotted compost material to the beds
+- Regularly remove dead, damaged and fallen leaves from the crops/beds
+
+## Row Covers
+
+Row covers refer to making a tiny, one bed "polytunnel" of wire hoops covered in either [Horticultural Fleece](#horticultural-fleece) or [Insert Netting](#insect-netting).
+
+A row cover of [Horticultural Fleece](#horticultural-fleece) increases the internal temperature which can extend the growing period for many crops, however it also increases internal humidity which may lead to fungal infections
+
+A row cover of [Insert Netting](#insect-netting) is used to keep insect pests off the crop. This is especially important for brassicas which suffer from [cabbage white caterpillar](#cabbage-white-caterpillar), and other crops TODO that suffer from [Flea Beetle](#flea-beetle). It does not effect the internal climate.
+
+The structure of the row cover is formed of 1.5m lengths of [4mm Galvanised Fencing Wire](#4mm-galvanized-fencing-wire), which keep their curved shape from the roll the come in. The semi circular sections are simple inserted about 15cm into the ground at 1m intervals
+
+The covering for a 10m bed should be cut to 1.5m x 11m. Once the structure is up, the covering is laid over it and pinned down using [Horticultural Staples](#horticultural-staples)
 
 ## Crop Rotation
 
@@ -79,3 +127,39 @@ The [Paper Pot Transplanter](Tools.md#paper-pot-transplanter) is a tool to massi
 ### Radish
 
 ### Turnip
+
+## Materials
+
+### Horticultural Fleece
+
+### Insect Netting
+
+Used as a [Row Covering](#row-covers) to prevent attack by insect pests
+
+Supplier: [Premier Netting](https://premiernetting.co.uk/catalog/insect-netting-fine-woven-mesh-100m-p-516.html?osCsid=196a2dd75278a4ba1e8ce1d442df6e91)
+
+### 4mm Galvanized Fencing Wire
+
+Used for forming the structure of [Row Covers](#row-covers)
+
+Supplier: [Ultimate One](https://www.ultimate-one.co.uk/fencing-line-wire-galvanised-4mm-dia-50m-coil-5kg8swg-p-1010)
+
+### Horticultural Staples
+
+Simple metal staples used to pin down row coverings
+
+Supplier: [JFH Horticultural Supplies LTD](https://www.jfhhorticultural.com/weed-mat-staples-15-x-10cm-packed-in-100-s-3482.html)
+
+### Corrugated Cardboard Roll
+
+Supplier: [Starlight Packaging](https://starlightpackaging.co.uk/roll-x-750mm-30-x-75mtr-corrugated-paper/?gclid=Cj0KCQjwqs3rBRCdARIsADe1pfSJDHjhSdZwfBEE_ubhfMD7QD4gKvQKsMXMBlMR3biz3vVoRtDakLEaAjjmEALw_wcB)
+
+### Plastic Mulch
+
+Supplier [Amazon](https://www.amazon.co.uk/Popamazing-Control-Nonwoven-Fabric-Biodegradable/dp/B074WMCKPP)
+
+### Compost
+
+### Stone Dust
+
+### Oyster Shell
