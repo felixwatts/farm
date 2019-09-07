@@ -49,6 +49,8 @@ Any beds that are to be left empty over winter should be prepared in the followi
 
 ## Planting
 
+TODO
+
 ### Direct Seeding
 
 Direct seeding refers to planting seeds directly into a bed. It is the simplest form of planting and with today's tools is very efficient. To direct seed a newly prepared bed use the following procedure:
@@ -82,17 +84,27 @@ However you should consider...
 
 #### Seeding
 
+TODO
+
 #### Planting Out
 
 The [Paper Pot Transplanter](Tools.md#paper-pot-transplanter) is a tool to massively speed up the seeding and transplanting process, however [the jury is still out](https://www.lowimpact.org/could-the-paperpot-transplanter-be-a-boon-for-small-farmers-or-is-it-just-a-gimmick/) on whether it's worth it
 
 ## Weeds
 
+TODO
+
 ## Pests
+
+TODO
 
 ### Flea Beetle
 
+TODO
+
 ### Cabbage White Caterpillar
+
+TODO
 
 ### Slugs
 
@@ -104,11 +116,11 @@ The best way to avoid slugs and snails is to avoid creating the right conditions
 
 ## Row Covers
 
-Row covers refer to making a tiny, one bed "polytunnel" of wire hoops covered in either [Horticultural Fleece](#horticultural-fleece) or [Insert Netting](#insect-netting).
+Row covers refer to making a tiny, one bed "polytunnel" of wire hoops covered in either [Horticultural Fleece](#horticultural-fleece) or [Insect Netting](#insect-netting).
 
 A row cover of [Horticultural Fleece](#horticultural-fleece) increases the internal temperature which can extend the growing period for many crops, however it also increases internal humidity which may lead to fungal infections
 
-A row cover of [Insert Netting](#insect-netting) is used to keep insect pests off the crop. This is especially important for brassicas which suffer from [cabbage white caterpillar](#cabbage-white-caterpillar), and other crops TODO that suffer from [Flea Beetle](#flea-beetle). It does not effect the internal climate.
+A row cover of [Insect Netting](#insect-netting) is used to keep insect pests off the crop. This is especially important for brassicas which suffer from [cabbage white caterpillar](#cabbage-white-caterpillar), and other crops TODO that suffer from [Flea Beetle](#flea-beetle). It does not effect the internal climate.
 
 The structure of the row cover is formed of 1.5m lengths of [4mm Galvanised Fencing Wire](#4mm-galvanized-fencing-wire), which keep their curved shape from the roll the come in. The semi circular sections are simple inserted about 15cm into the ground at 1m intervals
 
@@ -116,17 +128,31 @@ The covering for a 10m bed should be cut to 1.5m x 11m. Once the structure is up
 
 ## Crop Rotation
 
+TODO
+
 ## Making Compost
+
+TODO
 
 ## Crop Specifics
 
+TODO
+
 ### Tomato
+
+TODO
 
 ### Lettuce
 
+TODO
+
 ### Radish
 
+TODO
+
 ### Turnip
+
+TODO
 
 ## Materials
 
@@ -156,10 +182,18 @@ Supplier: [Starlight Packaging](https://starlightpackaging.co.uk/roll-x-750mm-30
 
 ### Plastic Mulch
 
+A permeable but light-proof bed covering material that is laid directly on the bed to prevent germination on beds that are not in use. Should be cut to the bed size plus a 10cm border and can be pinned in place with [Horticultural Staples](#horticultural-staples)
+
 Supplier [Amazon](https://www.amazon.co.uk/Popamazing-Control-Nonwoven-Fabric-Biodegradable/dp/B074WMCKPP)
 
 ### Compost
 
+TODO
+
 ### Stone Dust
 
+TODO
+
 ### Oyster Shell
+
+TODO
