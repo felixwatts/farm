@@ -58,3 +58,38 @@ Using the tool requires two people and works like this:
 1. Person B shouts out the number of the water level to Person A
 1. The height difference is the difference between the readings at A and B
 1. Therefore to find two places at the same level, person B moves up or downhill until the two measurements are the same
+
+## Tomato Scissors
+
+A type of scissor/sequituer that can be used with one hand, useful for pruning tomatoes and cucumbers.
+
+Supplier:  https://bit.ly/2E10tP7
+
+# TODO
+
+75cm Seedbed roller (USA) http://bit.ly/2keqGvB
+6-row seeder https://bit.ly/2E10tP7
+Jang Seeders (https://bit.ly/2E10tP7
+Paper pot seeder https://bit.ly/2E10tP7
+Quick greens harvester https://bit.ly/2E10tP7
+75cm Broadfork https://bit.ly/2E10tP7
+Glaser hoes (UK) http://bit.ly/2jE0mf0
+Korean hand hoe (UK) http://bit.ly/2jkV9YC
+Wheeled Hoe (Eur) http://bit.ly/2jOdPDA
+Fleece row cover  Buy from local source 20/40 gm/m2
+Insect netting Buy from local source, make sure it is small enough for flea beetle!
+Non-Woven Geotextile bed covers http://bit.ly/2zXArdt
+4mm wire for hoops (UK) http://bit.ly/2jbfPVf
+150m of 1.2m windbreak http://bit.ly/2k35MQR
+64 & 144 high-quality seed trays http://bit.ly/2AEApTT
+Leek/onion trays http://bit.ly/2AFSEbB
+Tomato/ Cucumber pots http://bit.ly/2AEApTT
+Microgreen trays http://bit.ly/2yZX94C (can find on Ebay)
+Pruning shears (USA) http://bit.ly/2z1P3bs
+Tomato scissors https://bit.ly/2E10tP7
+Polytunnel vents (USA, but can find local) http://bit.ly/2zXTh3V
+CoolBot (low-cost walk-in chillers) https://bit.ly/2E10tP7
+Harvesting knives (USA) http://bit.ly/2hsPC32
+Impact irrigation heads (UK) http://bit.ly/2kiRIpC
+Spiked base risers (UK) http://bit.ly/2iUz1FF
+Yellow irrigation pipe for impact heads (UK) http://bit.ly/2hyeSZk

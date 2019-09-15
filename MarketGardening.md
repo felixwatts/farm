@@ -87,13 +87,31 @@ However you should consider...
 - You needs lots of potting compost every year
 - The transplanting process inevitably slightly damages roots and temporarily stunts growth
 
-#### Seeding
+RP germinates in trays on shelves under lights at about 18c.
+
+#### Trays & Pots
+
+- *40cm x 40cm 64 cell tray* Used for crops that are transplanted at a medium size
+- *40cm x 40cm 144 cell tray* Used from crops that are transplanted at a small size
+- *60cm x 40cm tray without cells* used for leeks and onions
+- *10cm x 10cm 1.5l pot* used for potting on tomatoes after the cell tray stage
+- *?? 3l pot* used for potting on cucumbers after the cell tray stage
+
+#### Shelves
+
+40cm deep x 130cm wide by 60cm tall shelves
+
+#### Lights
+
+3 x T5 bulb per shelf. Mounted on 40cm x 120cm backing board, hung using chains from eye-hooks on the shelf frame so tha the distance between the bulb and the seedling can constantly be adjusted to 5-6cm
 
 #### Planting Out
 
 The [Paper Pot Transplanter](Tools.md#paper-pot-transplanter) is a tool to massively speed up the seeding and transplanting process, however [the jury is still out](https://www.lowimpact.org/could-the-paperpot-transplanter-be-a-boon-for-small-farmers-or-is-it-just-a-gimmick/) on whether it's worth it
 
 ## Irrigation
+
+See [this section](Water.md#market-garden-irrigation)
 
 ## Weeds
 
@@ -131,11 +149,21 @@ The covering for a 10m bed should be cut to 1.5m x 11m. Once the structure is up
 
 ### Tomato
 
+Grow under cover up strings, heavy feeder, broadfork first, seed, pot on and transplant, 75cm bed, 4cm spacing, drip irrigation, remove suckers weekly, remove all leaves below lowest fruit weekly, grow indeterminate varieties, remove growing tip towards end of season so remaining toms ripen, if growing in same ground multiple years need to graft to avoid disease
+
 ### Lettuce
 
 ### Radish
 
 ### Turnip
+
+### Peas
+
+Peas need to be supported on a climbing structure. Use 2.35m x 5cm x 5cm wooden poles driven 35cm into the bed at 1.3m spacing to support 2m high pea netting.
+
+### Cucumber
+
+Polytunnel, train up a string, cut our side shoots, heavy feeder, drip irrigation, start in 8x8 40cm seed tray
 
 TODO
 
