@@ -149,7 +149,7 @@ The covering for a 10m bed should be cut to 1.5m x 11m. Once the structure is up
 
 ### Tomato
 
-Grow under cover up strings, heavy feeder, broadfork first, seed, pot on and transplant, 75cm bed, 4cm spacing, drip irrigation, remove suckers weekly, remove all leaves below lowest fruit weekly, grow indeterminate varieties, remove growing tip towards end of season so remaining toms ripen, if growing in same ground multiple years need to graft to avoid disease
+Grow under cover up strings, heavy feeder, broadfork first, seed, pot on and transplant, 75cm bed, 4cm spacing, drip irrigation, remove suckers weekly, remove all leaves below lowest fruit weekly, grow indeterminate varieties, remove growing tip towards end of season so remaining toms ripen, if growing in same ground multiple years need to graft to avoid disease, use
 
 ### Lettuce
 
@@ -171,6 +171,10 @@ TODO
 
 ### Horticultural Fleece
 
+Used as a [Row Covering](#row-covers) to create a warmer microclimate for the crop
+
+Get from a local source, Use 20/40 gm/m2
+
 ### Insect Netting
 
 Used as a [Row Covering](#row-covers) to prevent attack by insect pests
@@ -181,7 +185,7 @@ Supplier: [Premier Netting](https://premiernetting.co.uk/catalog/insect-netting-
 
 Used for forming the structure of [Row Covers](#row-covers)
 
-Supplier: [Ultimate One](https://www.ultimate-one.co.uk/fencing-line-wire-galvanised-4mm-dia-50m-coil-5kg8swg-p-1010)
+Supplier: [Ultimate One](https://www.ultimate-one.co.uk/fencing-line-wire-galvanised-4mm-dia-50m-coil-5kg8swg-p-1010), http://bit.ly/2jbfPVf
 
 ### Horticultural Staples
 
@@ -197,11 +201,45 @@ Supplier: [Starlight Packaging](https://starlightpackaging.co.uk/roll-x-750mm-30
 
 A permeable but light-proof bed covering material that is laid directly on the bed to prevent germination on beds that are not in use. Should be cut to the bed size plus a 10cm border and can be pinned in place with [Horticultural Staples](#horticultural-staples)
 
-Supplier [Amazon](https://www.amazon.co.uk/Popamazing-Control-Nonwoven-Fabric-Biodegradable/dp/B074WMCKPP)
+Supplier [Amazon](https://www.amazon.co.uk/Popamazing-Control-Nonwoven-Fabric-Biodegradable/dp/B074WMCKPP), http://bit.ly/2zXArdt
 
 ### Compost
 
 ### Stone Dust
 
 ### Oyster Shell
+
+### Wind Break
+
+Supplier: http://bit.ly/2k35MQR
+
+### Seed Trays
+
+High quality seed trays used for germination on shelves. Two types have different sized cells but both fit on the same shelf. Can support themselves while full of compost. Long lasting.
+
+Supplier: http://bit.ly/2AEApTT
+
+### Leek/Onion Trays
+
+Seed trays without cells for germinating leek and onion
+
+Supplier: http://bit.ly/2AFSEbB
+
+### Tomato/Cucumber Pots
+
+For potting on tomato and cumber seedlings prior to planting out
+
+Supplier: http://bit.ly/2AEApTT
+
+### Microgreen Trays
+
+Very shallow seed trays that are used to  grow microgreens so that the greens can be harvested right down to the tray
+
+Supplier: http://bit.ly/2yZX94C (can find on Ebay)
+
+### Pruning Shears
+
+Use ??
+
+Supplier: (USA) http://bit.ly/2z1P3bs
 

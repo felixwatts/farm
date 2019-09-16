@@ -4,29 +4,43 @@
 
 The core the the no-dig gardeners arsenal, the broadfork is a fork that can be used to efficiently decompact and aerate a 75cm bed without turning the soil over. The result is healthy soil life and a deep rooting zone for crops
 
-Supplier: [Blackberry Lane](http://www.blackberrylane.co.uk/broadfork.html)
+Supplier: [Blackberry Lane](http://www.blackberrylane.co.uk/broadfork.html), https://bit.ly/2E10tP7
 
 ## Quick Cut Greens Harvester
 
+Supplier: https://bit.ly/2E10tP7
+
 ## 75cm Rake
 
-## Bed Roller
+## 75cm Bed Roller
+
+Supplier: (USA) http://bit.ly/2keqGvB
 
 ## Six Row Seeder
+
+Supplier: https://bit.ly/2E10tP7
 
 ## Colinear Hoe
 
 As recommended by [Elliot Coleman](People.md#elliot-coleman), this is a long-handled precision hoe
 
-Supplier [Johnny's Selected Seeds](https://www.johnnyseeds.com/tools-supplies/long-handled-tools/hoes/collinear-hoes/)
+Supplier: [Johnny's Selected Seeds](https://www.johnnyseeds.com/tools-supplies/long-handled-tools/hoes/collinear-hoes/)
+
+UK: http://bit.ly/2jE0mf0
 
 ## Korean Hoe
 
 As recommended by [Richard Perkins](People.md#richard-perkins), this is a traditional hoe from Korea, very precise, used from a stooped or crouching position
 
-Supplier: [Ebay](https://www.ebay.co.uk/p/Hoe-Ho-mi-Korean-Traditional-Garden-Digger-Tool-Horticultur-Agriculture-Farming/13025790850?iid=382628571003&chn=ps&norover=1&mkevt=1&mkrid=710-134428-41853-0&mkcid=2&itemid=382628571003&targetid=594652171640&device=c&mktype=pla&googleloc=9045230&poi=&campaignid=1700604133&mkgroupid=68042089162&rlsatarget=aud-692261385591:pla-594652171640&abcId=1140496&merchantid=6995734&gclid=Cj0KCQjwqs3rBRCdARIsADe1pfQh1cU-CmeuD_Av47WgNumLFzDvzGvud-BebNyPnbcDX4yfTAzbP9saAge1EALw_wcB)
+Supplier: http://bit.ly/2jkV9YC
+
+## Wheeled Hoe
+
+Supplier: http://bit.ly/2jOdPDA
 
 ## Paper Pot Transplanter
+
+Supplier: https://bit.ly/2E10tP7
 
 ## Mushroom Inoculation Tools
 
@@ -65,31 +79,42 @@ A type of scissor/sequituer that can be used with one hand, useful for pruning t
 
 Supplier:  https://bit.ly/2E10tP7
 
-# TODO
+### Pruning Shears
 
-75cm Seedbed roller (USA) http://bit.ly/2keqGvB
-6-row seeder https://bit.ly/2E10tP7
-Jang Seeders (https://bit.ly/2E10tP7
-Paper pot seeder https://bit.ly/2E10tP7
-Quick greens harvester https://bit.ly/2E10tP7
-75cm Broadfork https://bit.ly/2E10tP7
-Glaser hoes (UK) http://bit.ly/2jE0mf0
-Korean hand hoe (UK) http://bit.ly/2jkV9YC
-Wheeled Hoe (Eur) http://bit.ly/2jOdPDA
-Fleece row cover  Buy from local source 20/40 gm/m2
-Insect netting Buy from local source, make sure it is small enough for flea beetle!
-Non-Woven Geotextile bed covers http://bit.ly/2zXArdt
-4mm wire for hoops (UK) http://bit.ly/2jbfPVf
-150m of 1.2m windbreak http://bit.ly/2k35MQR
-64 & 144 high-quality seed trays http://bit.ly/2AEApTT
-Leek/onion trays http://bit.ly/2AFSEbB
-Tomato/ Cucumber pots http://bit.ly/2AEApTT
-Microgreen trays http://bit.ly/2yZX94C (can find on Ebay)
-Pruning shears (USA) http://bit.ly/2z1P3bs
-Tomato scissors https://bit.ly/2E10tP7
-Polytunnel vents (USA, but can find local) http://bit.ly/2zXTh3V
-CoolBot (low-cost walk-in chillers) https://bit.ly/2E10tP7
-Harvesting knives (USA) http://bit.ly/2hsPC32
-Impact irrigation heads (UK) http://bit.ly/2kiRIpC
-Spiked base risers (UK) http://bit.ly/2iUz1FF
-Yellow irrigation pipe for impact heads (UK) http://bit.ly/2hyeSZk
+Use ??
+
+Supplier: (USA) http://bit.ly/2z1P3bs
+
+### Harvesting Knives
+
+Used for harvesting veg
+
+Supplier: (USA) http://bit.ly/2hsPC32
+
+### Polytunnel Vents 
+
+Polytunnel vents that open automatically to avoid temperature spikes
+
+Supplier: (USA, but can find local) http://bit.ly/2zXTh3V
+
+### Coolbot
+
+This gizmo turns an air conditioning unit into a low-cost walk in chiller.
+
+Supplier: https://bit.ly/2E10tP7
+
+### Impact Irrigation Head
+
+The spray nozzle for spray irrigation systems
+
+Supplier: (UK) http://bit.ly/2kiRIpC
+
+### Spike Based Risers
+
+The riser for spray irrigation systems
+
+Supplier: (UK) http://bit.ly/2iUz1FF
+
+### Yellow Irrigation Pipe for Impact Heads
+
+Supplier: (UK) http://bit.ly/2hyeSZk
