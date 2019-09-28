@@ -14,6 +14,12 @@ An animal waterer can be constructed from a PVC tub with [float valve](https://w
 
 RP quotes 4cm of total irrigation per week
 
+### Irrigating with Rainwater Alone
+
+This has been done successfully by Terra farm in Luxembourg based on an rainfall of 800mm which is less than the 900+ in Hemyock.
+
+They have 0.7 hectares of growing space. They have three 27m x 9m polytunnels from First Tunnels, they have attached gutters to the sides of the tunnels, the water flows into a pond (although an earlier version of the system it flowed into tanks by the polytunnels) and from there is pumped by solar energy to IPC tanks raised about 4m off the ground by a scaffolding water-tower. From there they gravity feed a drip irrigation system based on Poritex (a porous irrigation pipe that is designed to work at low and varying pressures)
+
 ### Filter
 
 Between the water source and the irrigation system you need a pump. RP recommends a _disc filter_ that is designed for dirty input water and to feed a drop irrigation system

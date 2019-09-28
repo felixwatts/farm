@@ -117,7 +117,21 @@ See [this section](Water.md#market-garden-irrigation)
 
 ## Pests
 
+It is essential to do a _daily scout_ to keep a close eye on every crop and any pests that might be effecting it. Some pests can decimate a whole bed in 24 hours, so the sooner you take corrective action the better.
+
+### Caterpillars
+
+#### Treatments
+
+- Bacillus Thuringiensis is a bacteria that creates a protein that kills the caterpillar
+
 ### Flea Beetle
+
+####Treatments
+
+- Prevent with insect netting
+- Diatomaceous Earth is a food grade powder that you sprinkle onto the leaves, it cuts the exoskeleton the the beetle leading to death by dehydration.
+- Flea Beetle specific nematode 
 
 ### Cabbage White Caterpillar
 
@@ -236,10 +250,4 @@ Supplier: http://bit.ly/2AEApTT
 Very shallow seed trays that are used to  grow microgreens so that the greens can be harvested right down to the tray
 
 Supplier: http://bit.ly/2yZX94C (can find on Ebay)
-
-### Pruning Shears
-
-Use ??
-
-Supplier: (USA) http://bit.ly/2z1P3bs
 
