@@ -23,6 +23,8 @@
 | [The Plant List](http://www.theplantlist.org/) | Correct scientific names for almost world 300,000 species. |
 | [UK Perrenials](https://drive.google.com/file/d/1ywyYtJyxDJgiuitNdb93JvJ4xKX73Zsk/view?usp=sharing) | List of useful perennials for UK climate |
 | [Soil and Health](https://soilandhealth.org/) | free downloadable e-books about radical agriculture, natural hygiene/nature cure and self-sufficient homestead living |
+| [Agroforestry Trust](https://www.agroforestry.co.uk/) | Information on perenial crops and trees |
+| [Steward](https://gosteward.com) | Startup that funds regenerative farms |
 
 ## Authors
 

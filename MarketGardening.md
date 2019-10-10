@@ -1,5 +1,9 @@
 # Market Gardening
 
+### Wind Break
+
+Garden should be surrounded by 1m high wind break fence made of plastic wind break netting material or a hedge or a woven hazel fence.
+
 ## No Dig Permanent Raised Beds
 
 In this system, 75cm wide permanent beds are formed with 25cm paths in between. The beds are never dug or tilled, instead weeds are initially killed by a thick mulch of compost over winter and are subsequently suppressed by hand weeding, intensive spacings that out-compete weeds and subsequent additions of compost mulch. A [Broadfork](#broadfork) is used to decompact and aerate the soil without turning it.

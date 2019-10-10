@@ -12,13 +12,23 @@ An animal waterer can be constructed from a PVC tub with [float valve](https://w
 
 ### Water Requirements
 
-RP quotes 4cm of total irrigation per week
+RP quotes 4cm of total irrigation per week. This is more than the natural rainfall, so artificial irrigation will be required.
 
 ### Irrigating with Rainwater Alone
 
 This has been done successfully by Terra farm in Luxembourg based on an rainfall of 800mm which is less than the 900+ in Hemyock.
 
 They have 0.7 hectares of growing space. They have three 27m x 9m polytunnels from First Tunnels, they have attached gutters to the sides of the tunnels, the water flows into a pond (although an earlier version of the system it flowed into tanks by the polytunnels) and from there is pumped by solar energy to IPC tanks raised about 4m off the ground by a scaffolding water-tower. From there they gravity feed a drip irrigation system based on Poritex (a porous irrigation pipe that is designed to work at low and varying pressures)
+
+## Water Storage
+
+Two problems with storing your water in a pond: First, pond's have relatively large surface area to volume ratio, which leads to greater evaporation, which turns out to be a hugely significant factor (see my [water calculations](https://docs.google.com/spreadsheets/d/1pb4EYtCwY7o1YLqR3HYny5KzAPGH0lAH_psjrGxfGgk/edit#gid=921483784)). Secondly the water is below ground level so needs to be pumped or lifted to where its needed. Therefore I prefer the model where water is collected by a barn roof and is stored above ground level in a large water tank such as from [these guys](https://www.tanks-direct.co.uk/agricultural-tanks/large-agricultural-steel-tanks/galvanised-steel-water-tanks.html).
+
+If the tank is suitably positioned and sufficiently raised water can be gravity fed to anywhere on the farm. Although pumping may still be desirable for crop irrigation if a spray system is used.
+
+Wherever we are guiding and storing water we need to think about overflow. When the tank is full the excess water needs somewhere to go. I think the best way to deal with excess water is a pond. The pond is effectively an evaporation pool, with a large surface area which grows proportionally to the volume oif water, so controlling the level. If the pond itself needs an overflow then a marshy area with thirsty plants like bamboo and willow will do.
+
+A pond is also great for biodiversity and could potentially be a [natural swimming pool](https://www.countrylife.co.uk/gardens/natural-swimming-pools-everything-need-know-building-one-garden-184617)
 
 ### Filter
 
@@ -28,11 +38,7 @@ Between the water source and the irrigation system you need a pump. RP recommend
 
 Rain and spray irrigation can penetrate light fleece and insect netting, but you need to check with heavy fleece how well the water is penetrating
 
-
 ### Rain Gauge
 
-Use a rain gauge in the garden to record how much rainfall there has been each week and decide whether to irrigate the next week or not. Empty yhe rain gauge after each week.
+Use a rain gauge in the garden to record how much rainfall there has been each week and decide whether to irrigate the next week or not. Empty the rain gauge after each week.
 
-### Wind Break
-
-Garden should be surrounded by 1m high wind break fence made of plastic wind break netting material or a hedge

@@ -1,0 +1,61 @@
+# Roadmap
+
+*Start small and work out from well managed areas*
+
+# Phase 1: Winter 2019 - Spring 2020
+
+- Purchase land
+  - ~~Agree price and access route~~
+  - Check planning feasibility of long term plan
+- Establish minimal vehicular access
+  - Get contact for the work from Paul Clist
+  - Discuss plans and cost
+  - Agree price and date
+  - Observe work
+  - Pay
+- Buy minimal tool set
+    - Order tools (to Paul's)
+      - Wheelbarrow
+      - Shovel
+      - Fork
+      - Line and pins/pegs
+- Mark out the land into design grid
+    - Measure and mark 20m grid based off straight fence on west side
+    - Mark out the homestead area (for barn and garden)
+- Establish small number of beds for planting in spring 2020
+  - 12 beds:
+  - Get contact for wood chip
+  - Get contact for compost (high carbon low fertility is fine)
+  - Order materials
+    - 18m3 compost
+    - 10m3 wood chip
+    - 90m2 [Plastic Mulch](MarketGardening.md#plastic-mulch) 
+    - 240 [Horticultural Staples](#horticultural-staples)
+  - Receive compost
+  - Receive wood chip
+  - Receive/deliver other materials
+  - Form beds and paths and cover with plastic mulch
+- Construct a small greenhouse for germination and small scale water harvesting
+    - Order from firsttunnels.co.uk (suggest 4.88 x 20m as this fits 8 standard beds)
+    - Aquire tools
+      - Hammer (ams)
+      - Spirit level (ams)
+      - Cordless drill (ams)
+      - Extra battery for drill
+      - Staple gun
+      - Spade
+      - Tape measure (ams)
+      - stanley knife (ams)
+      - Philips screwdriver (ams)
+      - Wood saw (ams)
+      - B&D Workmate (ams)
+      - 13mm spanner x 2
+      - String line
+      - Marker pen
+    - receive tunnel
+    - build frame
+    - with help finish
+- Develop planning application for barn, water storage, solar, water tank, pond
+- Plant some trees
+    - Measure and mark out 20m grid where standards will be planted
+    - Plant 576 hazel coppice in a 10-20m band around the outside at 2.5m spacing

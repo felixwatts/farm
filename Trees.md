@@ -87,6 +87,23 @@ After planting you should mulch as above and also seed ground cover to fix the b
 
 Mycorryhza are fungi that form a symbiotic relationship with plants within the root zone. A healthy population of mycorrhyza within a tree's root zone will positively effect its vigor. Therefore, when planting a tree in a bacterially dominated soil, such as pasture, it may be beneficial to kickstart the mycorrhyzal population by innoculation. Products exist to help with this, such as [RootGrow](http://rootgrow.co.uk/products/).
 
-## Maintenance
+### Maintenance
 
 It is a good idea to reapply fungal compost and wood chip annually until the tree is well established enough to make significant leaf litter of its own
+
+## Species
+
+### Hazel
+
+Hazel is easy to grow and very useful. https://www.permaculture.co.uk/articles/essential-guide-hazel
+
+Hazel coppice:
+
+- One tree every 2.5m
+- Add one standard oak or sweet chestnut for every 20m square
+- Cut close to base in winter
+- Repeat after 7-20 years
+- After cutting place brash over the stool to help prevent deer damage of new shoots
+
+### Sweet Chestnut
+
