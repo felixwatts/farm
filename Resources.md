@@ -11,6 +11,10 @@
 | [Broadfork Supplier](http://www.blackberrylane.co.uk/broadfork.html) | `tools` | |
 | [Irrigation Systems](http://www.access-irrigation.co.uk/) | `tools` | |
 | [Cardboard Roll](https://starlightpackaging.co.uk/roll-x-750mm-30-x-75mtr-corrugated-paper/?gclid=Cj0KCQjwqs3rBRCdARIsADe1pfSJDHjhSdZwfBEE_ubhfMD7QD4gKvQKsMXMBlMR3biz3vVoRtDakLEaAjjmEALw_wcB) | `materials` | |
+| [Jackson's Nurseries](https://www.jacksonsnurseries.co.uk/) | The only online plant nursery that gives me any confidence | `plants` |
+| [Brookridge Timber](https://brookridgegroup.co.uk/) | Very local timber and timber products supplier. Does cabins and barns | `materials` `building` |
+| [Inside Out Buildings](https://www.insideoutbuildings.co.uk/) | Very local bespoke timber building company, sheds, cabins etc. | `building` |
+| [Christopher Edwardes](https://m.facebook.com/christopher.edwardes?fref=nf) | Guy in Lewes who sells mobile cabins made from old russian trucks. Seem cheap and good. | `building` |
 
 
 ## Websites
@@ -47,6 +51,7 @@
 | Jean-Marie Lespinasse and Evelyne Leterme | agroforestry | | | Growing fruit trees |
 | Owen Johnson and Davis More | agroforestry | | | Collins Tree Guide |
 | Eric Toensmeier | agroforestry | | | The Carbon Farming Solution |
+| Tim Tyne | Sheep | | | The Sheep Book for Smallholders |
 
 ## Concepts
 

@@ -6,18 +6,25 @@ I will use the "sections and beds" technique from Curtis Stone. This means secti
 
 ## Accommodation
 
-A-Frame cabin, fully glazed at front, no other glazing. The local timber store (https://brookridgestore.com) does lengths up to 6m.  
+Initially: a tiny cabin, could be from Brookridge Timber,
+
+Later: A self-built home constructed on the mezzanine level of a barn
 
 ## Water
 
 ## Livestock
 
+## Pasture
+
+The second layer of the grand plan is dedicated to pasture totalling about four acres. This is to be managed for production of meat, to increase biodiversity and soil health and to sequester carbon.
+
+Mob-grazing of ruminants (probably sheep and/or geese) will be used to control grass growth and increase soil health.
+
+An element of silvopasture may be included by planting rows of trees within the pasture at a spacing so as to cause no more than 30% canopy cover. For example, nitrogen fixing trees such as Italian Alder may be used to increase pasture productivity, create a wind break and provide a further harvest of timber.
+
 ## Trees
 
-Around the outer edges of the field, install hedgerows roughly along contour lines at roughly 18m spacing, encircling the field. The hedgerows will be hazel with occasional sweet chestnut trees. 
+The outer layer of the grand plan is a roughly 20 strip dedicated to productive woodland. The primary makeup being hazel coppice stools at 2.5m spacing interspersed with standards of oak, sweet chestnut, beech, hornbeam. This is designed to produce privacy, habitat, firewood, mast and timber as well as potentially mushrooms and ginseng.
 
-The lanes between can be grazed by ruminants (cows or geese?) followed by chickens, moving along the lane each day to avoid over-grazing.
-
-The hazel can be layed to hedge using traditional method and will provide hazel nuts or at least attract grey squirrel that can be trapped and used to grow maggots for chicken feed.
-
-The sweet chestnut will be spaced to provide about 30% ground cover when full grown so as not to reduce grass growth.
+- 1880 Hazel coppice stools
+- 26 standards
