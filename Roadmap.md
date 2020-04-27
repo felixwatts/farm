@@ -4,58 +4,129 @@
 
 # Phase 1: Winter 2019 - Spring 2020
 
-- Purchase land
-  - ~~Agree price and access route~~
-  - Check planning feasibility of long term plan
-- Establish minimal vehicular access
-  - Get contact for the work from Paul Clist
-  - Discuss plans and cost
-  - Agree price and date
-  - Observe work
-  - Pay
-- Buy minimal tool set
-    - Order tools (to Paul's)
-      - Wheelbarrow
-      - Shovel
-      - Fork
-      - Line and pins/pegs
-- Mark out the land into design grid
-    - Measure and mark 20m grid based off straight fence on west side
-    - Mark out the homestead area (for barn and garden)
+- [x] Purchase land
+  - [x] ~~Agree price and access route~~
+  - [x] Check planning feasibility of long term plan
+- [x] Establish minimal vehicular access
+  - [x] Get contact for the work from Paul Clist
+  - [x] Discuss plans and cost
+  - [x] Agree price and date
+  - [x] Observe work
+  - [x] Pay
+- [x] Buy minimal tool set
+    - [x] Order tools (to Paul's)
+      - [x] Wheelbarrow
+      - [x] Shovel
+      - ~~Fork~~
+      - [x] Line and pins/pegs
+- [x] Mark out the land into design grid
+    - [x] Measure and mark 20m grid based off straight fence on west side
+    - [x] Mark out the homestead area (for barn and garden)
+- [x] Build fence around veg garden
+  - [x] Order
+  - [x] Observe
+  - [x] Pay
 - Establish small number of beds for planting in spring 2020
-  - 12 beds:
-  - Get contact for wood chip
-  - Get contact for compost (high carbon low fertility is fine)
+  - [ ] ~~12~~ 16 beds:
+  - [x] Get contact for wood chip
+  - [x] Get contact for compost (high carbon low fertility is fine)
   - Order materials
-    - 18m3 compost
-    - 10m3 wood chip
-    - 90m2 [Plastic Mulch](MarketGardening.md#plastic-mulch) 
-    - 240 [Horticultural Staples](#horticultural-staples)
-  - Receive compost
-  - Receive wood chip
-  - Receive/deliver other materials
-  - Form beds and paths and cover with plastic mulch
-- Construct a small greenhouse for germination and small scale water harvesting
-    - Order from firsttunnels.co.uk (suggest 4.88 x 20m as this fits 8 standard beds)
-    - Aquire tools
-      - Hammer (ams)
-      - Spirit level (ams)
-      - Cordless drill (ams)
-      - Extra battery for drill
-      - Staple gun
-      - Spade
-      - Tape measure (ams)
-      - stanley knife (ams)
-      - Philips screwdriver (ams)
-      - Wood saw (ams)
-      - B&D Workmate (ams)
-      - 13mm spanner x 2
-      - String line
-      - Marker pen
-    - receive tunnel
-    - build frame
-    - with help finish
-- Develop planning application for barn, water storage, solar, water tank, pond
-- Plant some trees
-    - Measure and mark out 20m grid where standards will be planted
-    - Plant 576 hazel coppice in a 10-20m band around the outside at 2.5m spacing
+    - [x] ~~18m3~~ 15m3 compost
+    - [x] ~~10m3~~ 4m3 wood chip
+    - [ ] ~~90m2 [Plastic Mulch](MarketGardening.md#plastic-mulch)~~
+    - [x] ~~240~~ 100 [Horticultural Staples](#horticultural-staples)
+  - [x] Receive compost
+  - [x] Receive wood chip
+  - [x] Receive/deliver other materials
+  - [ ] Form beds and paths and cover with plastic mulch
+- [ ] Construct a small greenhouse for germination and small scale water harvesting
+    - [ ] Order from firsttunnels.co.uk (suggest ~~4.88 x 20m as this fits 8 standard beds~~ 3m x 4m)
+    - [ ]Aquire tools
+      - [x] Hammer (ams)
+      - [x] Spirit level (ams)
+      - [x] Cordless drill (ams)
+      - [ ] Extra battery for drill
+      - [ ] Staple gun
+      - [x] Spade
+      - [x] Tape measure (ams)
+      - [x] stanley knife (ams)
+      - [x] Philips screwdriver (ams)
+      - [x] Wood saw (ams)
+      - [x] B&D Workmate (ams)
+      - [x] 13mm spanner x 2
+      - [x] String line
+      - [x] Marker pen
+    - [ ] receive tunnel
+    - [ ] build frame
+    - [ ] with help finish
+- [ ] ~~Develop planning application for barn, water storage, solar, water tank, pond~~
+- [ ] Build a shed
+  - [ ] Order parts
+    - [x] Ground screws
+    - [ ] Wood for base
+    - [x] Shed
+    - [x] Fixctures
+  - [ ] Build base
+    - [x] Install ground screws
+    - [ ] Cut sheet material
+    - [ ] Deliver cut sheets to site
+    - [ ] Assemble base
+  - [ ] Assemble shed as much as possible without help
+  - [ ] Assemble rest with help
+- [ ] Build a rainwater harvesting, storage and distribution system
+  - [x] Design
+  - [ ] Order parts
+    - [x] Scaffolding
+    - [x] IBCs
+    - [ ] Pipes, connectors, taps and hoses
+    - [ ] Drain pipes and wood
+  - [x] Get foundations ecavated
+  - [ ] Build with help
+- [ ] Plant trees
+    - [x] Develop detailed plan
+    - [x] Apply for woodland creation grant
+    - [ ] Get funding
+    - [ ] Order trees
+    - [ ] Order planting materials
+      - [ ] Tools
+      - [ ] Cardboard
+      - [ ] Wood chip
+      - [ ] Stakes
+      - [ ] Tree guards
+      - [ ] Fungal innoculant?
+    - [ ] Prepare ground
+    - [ ] Receive planting materials
+      - [ ] Tools
+      - [ ] Cardboard
+      - [ ] Wood chip
+      - [ ] Stakes
+      - [ ] Tree guards
+      - [ ] Fungal innoculant?
+    - [ ] Receive trees
+    - [ ] Plant trees
+      - [ ] 100
+      - [ ] 200
+      - [ ] 300
+      - [ ] 400
+      - [ ] 500
+      - [ ] 600
+      - [ ] 700
+      - [ ] 800
+      - [ ] 900
+      - [ ] 1000
+      - [ ] 1100
+      - [ ] 1200
+      - [ ] 1300
+      - [ ] 1400
+      - [ ] 1500
+      - [ ] 1600
+      - [ ] 1700
+      - [ ] 1800
+      - [ ] 1900
+      - [ ] 2000
+      - [ ] 2100
+      - [ ] 2200
+      - [ ] 2300
+      - [ ] 2400
+      - [ ] 2500
+      
