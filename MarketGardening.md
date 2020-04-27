@@ -101,6 +101,8 @@ RP germinates in trays on shelves under lights at about 18c.
 - *10cm x 10cm 1.5l pot* used for potting on tomatoes after the cell tray stage
 - *?? 3l pot* used for potting on cucumbers after the cell tray stage
 
+Huw Richards recommends [these trays for most things](https://containerwise.co.uk/product-category/shallow-propagation-trays/) and [these trays for deep rooting things like peas and beans](https://containerwise.co.uk/product-category/deep-propagation-trays-350x215/)
+
 #### Shelves
 
 40cm deep x 130cm wide by 60cm tall shelves
