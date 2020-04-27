@@ -5,7 +5,7 @@
 # Phase 1: Winter 2019 - Spring 2020
 
 - [x] Purchase land
-  - [x] ~~Agree price and access route~~
+  - [x] Agree price and access route
   - [x] Check planning feasibility of long term plan
 - [x] Establish minimal vehicular access
   - [x] Get contact for the work from Paul Clist
@@ -26,7 +26,7 @@
   - [x] Order
   - [x] Observe
   - [x] Pay
-- Establish small number of beds for planting in spring 2020
+- [ ] Establish small number of beds for planting in spring 2020
   - [ ] ~~12~~ 16 beds:
   - [x] Get contact for wood chip
   - [x] Get contact for compost (high carbon low fertility is fine)
@@ -41,7 +41,7 @@
   - [ ] Form beds and paths and cover with plastic mulch
 - [ ] Construct a small greenhouse for germination and small scale water harvesting
     - [ ] Order from firsttunnels.co.uk (suggest ~~4.88 x 20m as this fits 8 standard beds~~ 3m x 4m)
-    - [ ]Aquire tools
+    - [ ] Aquire tools
       - [x] Hammer (ams)
       - [x] Spirit level (ams)
       - [x] Cordless drill (ams)

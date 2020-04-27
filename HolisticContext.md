@@ -12,11 +12,12 @@ I am currently working with the current resources:
 
 ## Financial
 
+- Nine acres of pasture
 - One small house (value 182K GBP)
 - A rental property (value 300K EUR, income ~7K EUR / year)
-- About 130K EUR in investments (income ~13K EUR / year)
+- About 160K EUR in investments
 - Employment bringing in ~12K GBP / year for 6 days / month
-- 1000 Ether tokens
+- About £14K and 50K EUR in cash
 
 ## Experiential
 
@@ -46,7 +47,9 @@ I am currently working with the current resources:
 
 ## Living
 
-- Good grass in field?
+- Numerous plant, bird and insect species
+- Rabbits
+- Roe deer
 
 ## Cultural
 
@@ -60,7 +63,7 @@ I am currently working with the current resources:
 1. Gain meaning in my life through being a valuable community member and having responsibilities which I uphold
 1. Regenerate ecosystems by building topsoil, biodiversity and water resilience
 1. Curate, study, nurture and occupy a beautiful little ecosystem
-1. Help build a community and network of regenerative farmers in SW england
+1. Contribute to local communities of like-minded people
 1. Do not contribute to climate or ecological destruction
 
 # Quality of Life Statements
@@ -88,7 +91,7 @@ I am currently working with the current resources:
 - I record all my activities and their effects
 - I build facilities and attractions for visitors, remain in active contact with friends and family and regularly invite people to the land. I actively make connections in the local community and always think about what/how I can offer to people
 - Where practical I produce what I like to eat, and where impractical I find a local supplier. I invest in capital to preserve food for the winter months
-- I draw down financial capital to fund other more productive forms, once my financial capital is exhausted I will invest only profits
+- I draw down financial capital to fund other more productive forms, once my financial capital is exhausted I will invest only earnings
 - I minimize energy and material inputs, and source locally where possible and from waste streams where possible
 - I use my financial capital to install energy and water harvesting and storage infrastructure
 - I work smart, rather than hard, I study the existing ecosystem and try to design minor adjustments that will make existing systems work in my favor, rather than replacing them with something else

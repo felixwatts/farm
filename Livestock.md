@@ -10,7 +10,7 @@ The rest of this document assesses each type of livestock against these criteria
 
 ## Mob Grazing
 
-Whatever livestock enterprise I do will probably use the *mob grazing* model. In this model the flock of livestock is reared mostly or solely on pasture. Temporary electric fencing is used to corral the flock into a small area and this area is moved every day. In this way the flock heavily impacts and fertilizes the pasture one small area at a time. Each area of pasture is impacted heavily and then given enough time to fully recover before being grazed again. This model has been demonstrated to be very effective at improving pasture and sequestering carbon.
+Whatever livestock enterprise I do will probably use the *mob grazing* model. In this model the flock of livestock is reared mostly or solely on pasture. Temporary electric fencing is used to corral the flock into a small area and this area is moved every day. In this way the flock heavily impacts and fertilizes the pasture one small area at a time. Each area of pasture is impacted heavily and then given enough time to fully recover before being grazed again. When executed properly with careful timing this method can be used to keep the grass in its vegetative growth state for the longest time possible. In this state the grass is most productive both in leaves and roots. Mob grazing has been demonstrated to be very effective at improving pasture and sequestering carbon.
 
 ## Broiler Chickens
 
@@ -48,7 +48,8 @@ Pros:
 
 Cons:
 
-- Harder to sell than chicken?
+- Harder to sell than chicken
+- Becuase of the time to maturity they are very expensive to produce compared to chicken
 - Noisy
 - Can be aggressive
 
@@ -87,12 +88,15 @@ Cons:
 
 ## Goats
 
+**Summary** Can be very charming and eat lots of things, some of which would otherwise be waste. Might be worth it just as pets and pasture management, needs further investigation
+
 ## Sheep
 
 Pros:
 
 - Live outdoors all year
 - Can live on grass all year ?
+- Delicious!
 
 Cons:
 
