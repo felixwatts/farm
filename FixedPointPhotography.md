@@ -52,6 +52,20 @@ The camera orientation is expressed using compass bearings `N`, `E`, `NE` for ex
 
 ![](/FixedPointPhotography/2020-05-14/P90LN.JPG "2020-05-14")
 
+## P94
+
+### S
+
+![](/FixedPointPhotography/2020-05-14/P94LS.JPG "2020-05-14")
+
+### E
+
+![](/FixedPointPhotography/2020-05-14/P94LE.JPG "2020-05-14")
+
+### N
+
+![](/FixedPointPhotography/2020-05-14/P94LN.JPG "2020-05-14")
+
 ## P99
 
 ### S
