@@ -21,6 +21,7 @@
 
 | Source | Notes |
 |--------|-------|
+| [Open Food Network](https://openfoodnetwork.org.uk/) | Sell food directly to local connsumers. Seems active |
 | [Plants for a Future](https://pfaf.org/user/Default.aspx) | Over 7,000 useful plants for temperate climates. |
 | [Apios Institute](https://apiosinstitute.org) | Wiki of perennial polyculture resources for cold climates. |
 | [Food Plants International](http://foodplantsinternational.com/) | Global database of 18,000 edible plants. |
