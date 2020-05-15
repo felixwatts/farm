@@ -14,12 +14,192 @@ The camera orientation is expressed using compass bearings `N`, `E`, `NE` for ex
 
 ### S
 
-![P00S-2020-05-14](/FixedPointPhotography/2020-05-14/P00LS.JPG "2020-05-14")
+![](/FixedPointPhotography/2020-05-14/P00LS.JPG "2020-05-14")
 
 ### E
 
-![P00S-2020-05-14](/FixedPointPhotography/2020-05-14/P00LE.JPG "2020-05-14")
+![](/FixedPointPhotography/2020-05-14/P00LE.JPG "2020-05-14")
 
 ### SE
 
-![P00S-2020-05-14](/FixedPointPhotography/2020-05-14/P00LSE.JPG "2020-05-14")
+![](/FixedPointPhotography/2020-05-14/P00LSE.JPG "2020-05-14")
+
+## P40
+
+### S
+
+![](/FixedPointPhotography/2020-05-14/P40LS.JPG "2020-05-14")
+
+### E
+
+![](/FixedPointPhotography/2020-05-14/P40LE.JPG "2020-05-14")
+
+### N
+
+![](/FixedPointPhotography/2020-05-14/P40LN.JPG "2020-05-14")
+
+## P90
+
+### S
+
+![](/FixedPointPhotography/2020-05-14/P90LS.JPG "2020-05-14")
+
+### E
+
+![](/FixedPointPhotography/2020-05-14/P90LE.JPG "2020-05-14")
+
+### N
+
+![](/FixedPointPhotography/2020-05-14/P90LN.JPG "2020-05-14")
+
+## P99
+
+### S
+
+![](/FixedPointPhotography/2020-05-14/P99LS.JPG "2020-05-14")
+
+### E
+
+![](/FixedPointPhotography/2020-05-14/P99LE.JPG "2020-05-14")
+
+### N
+
+![](/FixedPointPhotography/2020-05-14/P99LN.JPG "2020-05-14")
+
+### W
+
+![](/FixedPointPhotography/2020-05-14/P99LW.JPG "2020-05-14")
+
+## P49
+
+### S
+
+![](/FixedPointPhotography/2020-05-14/P49LS.JPG "2020-05-14")
+
+### E
+
+![](/FixedPointPhotography/2020-05-14/P49LE.JPG "2020-05-14")
+
+### N
+
+![](/FixedPointPhotography/2020-05-14/P49LN.JPG "2020-05-14")
+
+### W
+
+![](/FixedPointPhotography/2020-05-14/P49LW.JPG "2020-05-14")
+
+## P17
+
+### S
+
+![](/FixedPointPhotography/2020-05-14/P17LS.JPG "2020-05-14")
+
+### E
+
+![](/FixedPointPhotography/2020-05-14/P17LE.JPG "2020-05-14")
+
+### N
+
+![](/FixedPointPhotography/2020-05-14/P17LN.JPG "2020-05-14")
+
+### W
+
+![](/FixedPointPhotography/2020-05-14/P17LW.JPG "2020-05-14")
+
+## P44
+
+### SE
+
+![](/FixedPointPhotography/2020-05-14/P44LSE.JPG "2020-05-14")
+
+### NE
+
+![](/FixedPointPhotography/2020-05-14/P44LNE.JPG "2020-05-14")
+
+### SW
+
+![](/FixedPointPhotography/2020-05-14/P44LSW.JPG "2020-05-14")
+
+### NW
+
+![](/FixedPointPhotography/2020-05-14/P44LNW.JPG "2020-05-14")
+
+## P45
+
+### SE
+
+![](/FixedPointPhotography/2020-05-14/P45LSE.JPG "2020-05-14")
+
+### NE
+
+![](/FixedPointPhotography/2020-05-14/P45LNE.JPG "2020-05-14")
+
+### SW
+
+![](/FixedPointPhotography/2020-05-14/P45LSW.JPG "2020-05-14")
+
+### NW
+
+![](/FixedPointPhotography/2020-05-14/P45LNW.JPG "2020-05-14")
+
+## P55
+
+### SE
+
+![](/FixedPointPhotography/2020-05-14/P55LSE.JPG "2020-05-14")
+
+### NE
+
+![](/FixedPointPhotography/2020-05-14/P55LNE.JPG "2020-05-14")
+
+### SW
+
+![](/FixedPointPhotography/2020-05-14/P55LSW.JPG "2020-05-14")
+
+### NW
+
+![](/FixedPointPhotography/2020-05-14/P55LNW.JPG "2020-05-14")
+
+## P54
+
+### SE
+
+![](/FixedPointPhotography/2020-05-14/P54LSE.JPG "2020-05-14")
+
+### NE
+
+![](/FixedPointPhotography/2020-05-14/P54LNE.JPG "2020-05-14")
+
+### SW
+
+![](/FixedPointPhotography/2020-05-14/P54LSW.JPG "2020-05-14")
+
+### NW
+
+![](/FixedPointPhotography/2020-05-14/P54LNW.JPG "2020-05-14")
+
+## P33
+
+### D
+
+![](/FixedPointPhotography/2020-05-14/P33LD.JPG "2020-05-14")
+
+## P36
+
+### D
+
+![](/FixedPointPhotography/2020-05-14/P36LD.JPG "2020-05-14")
+
+## P63
+
+### D
+
+![](/FixedPointPhotography/2020-05-14/P63LD.JPG "2020-05-14")
+
+## P66
+
+### D
+
+![](/FixedPointPhotography/2020-05-14/P66LD.JPG "2020-05-14")
+
+
