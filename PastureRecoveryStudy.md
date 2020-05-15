@@ -6,7 +6,7 @@ To measure the recovery time, a small section of ungrazed pasture with a represe
 
 ## Study 1: 11/05/2020
 
-### Sample 1: Sweet Vernal Grass, Meadow Buttercup, Red Campion, Dandelion
+### Sample 1: Sweet Vernal Grass, Meadow Buttercup, Dandelion
 
 #### Control (prior to mowing)
 

@@ -5,7 +5,7 @@ This is a list of all the plants that I have found living on my land, arranged b
 ## April 2020
 
 Bracken
-Nettle
+Stinging Nettle
 Bramble
 Bluebell
 Dog rose
