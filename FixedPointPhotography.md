@@ -15,3 +15,11 @@ The camera orientation is expressed using compass bearings `N`, `E`, `NE` for ex
 ### S
 
 ![P00S-2020-05-14](/FixedPointPhotography/2020-05-14/P00LS.JPG "2020-05-14")
+
+### E
+
+![P00S-2020-05-14](/FixedPointPhotography/2020-05-14/P00LE.JPG "2020-05-14")
+
+### SE
+
+![P00S-2020-05-14](/FixedPointPhotography/2020-05-14/P00LSE.JPG "2020-05-14")
