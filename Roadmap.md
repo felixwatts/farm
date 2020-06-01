@@ -26,66 +26,78 @@
   - [x] Order
   - [x] Observe
   - [x] Pay
-- [ ] Establish small number of beds for planting in spring 2020
-  - [ ] ~~12~~ 16 beds:
+- [x] Establish small number of beds for planting in spring 2020
+  - [x] ~~12~~ 16 beds:
   - [x] Get contact for wood chip
   - [x] Get contact for compost (high carbon low fertility is fine)
   - Order materials
     - [x] ~~18m3~~ 15m3 compost
     - [x] ~~10m3~~ 4m3 wood chip
-    - [ ] ~~90m2 [Plastic Mulch](MarketGardening.md#plastic-mulch)~~
+    - [x] ~~90m2 [Plastic Mulch](MarketGardening.md#plastic-mulch)~~
     - [x] ~~240~~ 100 [Horticultural Staples](#horticultural-staples)
   - [x] Receive compost
   - [x] Receive wood chip
   - [x] Receive/deliver other materials
-  - [ ] Form beds and paths and cover with plastic mulch
-- [ ] Construct a small greenhouse for germination and small scale water harvesting
-    - [ ] Order from firsttunnels.co.uk (suggest ~~4.88 x 20m as this fits 8 standard beds~~ 3m x 4m)
-    - [ ] Aquire tools
-      - [x] Hammer (ams)
-      - [x] Spirit level (ams)
-      - [x] Cordless drill (ams)
-      - [ ] Extra battery for drill
-      - [ ] Staple gun
-      - [x] Spade
-      - [x] Tape measure (ams)
-      - [x] stanley knife (ams)
-      - [x] Philips screwdriver (ams)
-      - [x] Wood saw (ams)
-      - [x] B&D Workmate (ams)
-      - [x] 13mm spanner x 2
-      - [x] String line
-      - [x] Marker pen
-    - [ ] receive tunnel
-    - [ ] build frame
-    - [ ] with help finish
+  - [x] Form beds and paths and cover with plastic mulch
 - [ ] ~~Develop planning application for barn, water storage, solar, water tank, pond~~
+
+# Phase 2: Summer 2020 - Autumn 2020
+
+- [ ] Construct a small greenhouse for germination and small scale water harvesting
+  - [x] Order from firsttunnels.co.uk (suggest ~~4.88 x 20m as this fits 8 standard beds~~ 3m x 4m)
+  - [ ] Aquire tools
+    - [x] Hammer (ams)
+    - [x] Spirit level (ams)
+    - [x] Cordless drill (ams)
+    - [ ] Extra battery for drill
+    - [ ] Staple gun
+    - [x] Spade
+    - [x] Tape measure (ams)
+    - [x] stanley knife (ams)
+    - [x] Philips screwdriver (ams)
+    - [x] Wood saw (ams)
+    - [x] B&D Workmate (ams)
+    - [x] 13mm spanner x 2
+    - [x] String line
+    - [x] Marker pen
+  - [ ] receive tunnel
+  - [ ] build frame
+  - [ ] with help finish
 - [ ] Build a shed
-  - [ ] Order parts
+  - [x] Order parts
     - [x] Ground screws
-    - [ ] Wood for base
+    - [x] Wood for base
     - [x] Shed
-    - [x] Fixctures
-  - [ ] Build base
+    - [x] Fixtures
+  - [x] Build base
     - [x] Install ground screws
-    - [ ] Cut sheet material
-    - [ ] Deliver cut sheets to site
-    - [ ] Assemble base
+    - [x] Cut sheet material
+    - [x] Deliver cut sheets to site
+    - [x] Assemble base
   - [ ] Assemble shed as much as possible without help
   - [ ] Assemble rest with help
+- [ ] Plant trees
+  - [x] Develop detailed plan
+  - [x] Apply for woodland creation grant
+  - [ ] Get funding
 - [ ] Build a rainwater harvesting, storage and distribution system
   - [x] Design
-  - [ ] Order parts
+  - [x] Order parts
     - [x] Scaffolding
     - [x] IBCs
-    - [ ] Pipes, connectors, taps and hoses
-    - [ ] Drain pipes and wood
+    - [x] Pipes, connectors, taps and hoses
+    - [x] Drain pipes and wood
   - [x] Get foundations ecavated
-  - [ ] Build with help
+  - [ ] Build ~~with help~~
+    - [x] Module 1
+    - [x] Module 2
+    - [x] Module 3
+    - [ ] Module 4
+
+# Phase 3: Winter 2020 - Spring 2021
+
 - [ ] Plant trees
-    - [x] Develop detailed plan
-    - [x] Apply for woodland creation grant
-    - [ ] Get funding
+  - [ ] Chestnut Wood
     - [ ] Order trees
     - [ ] Order planting materials
       - [ ] Tools
@@ -104,29 +116,55 @@
       - [ ] Fungal innoculant?
     - [ ] Receive trees
     - [ ] Plant trees
-      - [ ] 100
-      - [ ] 200
-      - [ ] 300
-      - [ ] 400
-      - [ ] 500
-      - [ ] 600
-      - [ ] 700
-      - [ ] 800
-      - [ ] 900
-      - [ ] 1000
-      - [ ] 1100
-      - [ ] 1200
-      - [ ] 1300
-      - [ ] 1400
-      - [ ] 1500
-      - [ ] 1600
-      - [ ] 1700
-      - [ ] 1800
-      - [ ] 1900
-      - [ ] 2000
-      - [ ] 2100
-      - [ ] 2200
-      - [ ] 2300
-      - [ ] 2400
-      - [ ] 2500
+
+  # Phase 4: Summer 2021 - Autumn 2021
+
+  - [ ] Grow significant veg
+  - [ ] Experiment with livestock
+
+  # Phase 5: Winter 2021 - Spring 2022
+
+  - [ ] Plant trees
+    - [ ] Bird Wood
+      - [ ] Order trees
+      - [ ] Order planting materials
+        - [ ] Tools
+        - [ ] Cardboard
+        - [ ] Wood chip
+        - [ ] Stakes
+        - [ ] Tree guards
+        - [ ] Fungal innoculant?
+      - [ ] Prepare ground
+      - [ ] Receive planting materials
+        - [ ] Tools
+        - [ ] Cardboard
+        - [ ] Wood chip
+        - [ ] Stakes
+        - [ ] Tree guards
+        - [ ] Fungal innoculant?
+      - [ ] Receive trees
+      - [ ] Get help
+      - [ ] Plant trees
+    - [ ] Timber Wood
+      - [ ] Order trees
+      - [ ] Order planting materials
+        - [ ] Tools
+        - [ ] Cardboard
+        - [ ] Wood chip
+        - [ ] Stakes
+        - [ ] Tree guards
+        - [ ] Fungal innoculant?
+      - [ ] Prepare ground
+      - [ ] Receive planting materials
+        - [ ] Tools
+        - [ ] Cardboard
+        - [ ] Wood chip
+        - [ ] Stakes
+        - [ ] Tree guards
+        - [ ] Fungal innoculant?
+      - [ ] Receive trees
+      - [ ] Get help
+      - [ ] Plant trees
+
+
       
