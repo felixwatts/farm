@@ -10,30 +10,48 @@ To measure the recovery time, a small section of ungrazed pasture with a represe
 
 #### Control (prior to mowing)
 
-![](/PastureRecoveryStudy/Sample1-Control-1.JPG "Sample 1 - Control - 1")
-![](/PastureRecoveryStudy/Sample1-Control-2.JPG "Sample 1 - Control - 2")
+![](/PastureRecoveryStudy/sample-1/control/1.JPG "Sample 1 - Control - 1")
+![](/PastureRecoveryStudy/sample-1/control/2.JPG "Sample 1 - Control - 2")
 
 #### Day 0 (immediately after mowing)
 
-![](/PastureRecoveryStudy/Sample1-Day0-1.JPG "Sample 1 - Day 0 - 1")
-![](/PastureRecoveryStudy/Sample1-Day0-2.JPG "Sample 1 - Day 0 - 2")
+![](/PastureRecoveryStudy/sample-1/day-0/1.JPG "Sample 1 - Day 0 - 1")
+![](/PastureRecoveryStudy/sample-1/day-0/2.JPG "Sample 1 - Day 0 - 2")
+
+#### Day 8
+
+![](/PastureRecoveryStudy/sample-1/day-8/1.JPG "Sample 1 - Day 8 - 1")
+![](/PastureRecoveryStudy/sample-1/day-8/2.JPG "Sample 1 - Day 8 - 2")
+![](/PastureRecoveryStudy/sample-1/day-8/3.JPG "Sample 1 - Day 8 - 3")
+![](/PastureRecoveryStudy/sample-1/day-8/4.JPG "Sample 1 - Day 8 - 4")
+![](/PastureRecoveryStudy/sample-1/day-8/5.JPG "Sample 1 - Day 8 - 5")
 
 ### Sample 2: Dock
 
 #### Control (prior to mowing)
 
-![](/PastureRecoveryStudy/Sample2-Control.JPG "Sample 2 - Control - 1")
+![](/PastureRecoveryStudy/sample-2/control/1.JPG "Sample 2 - Control - 1")
 
 #### Day 0 (immediately after mowing)
 
-![](/PastureRecoveryStudy/Sample2-Day0.JPG "Sample 2 - Day 0 - 1")
+![](/PastureRecoveryStudy/sample-2/day-0/1.JPG "Sample 2 - Day 0 - 1")
+
+#### Day 8
+
+![](/PastureRecoveryStudy/sample-2/day-8/1.JPG "Sample 2 - Day 8 - 1")
+![](/PastureRecoveryStudy/sample-2/day-8/2.JPG "Sample 2 - Day 8 - 2")
 
 ### Sample 3: Creeping Thistle
 
 #### Control (prior to mowing)
 
-![](/PastureRecoveryStudy/Sample3-Control.JPG "Sample 3 - Control - 1")
+![](/PastureRecoveryStudy/sample-3/control/1.JPG "Sample 3 - Control - 1")
 
 #### Day 0 (immediately after mowing)
 
-![](/PastureRecoveryStudy/Sample3-Day0.JPG "Sample 3 - Day 0 - 1")
+![](/PastureRecoveryStudy/sample-3/day-0/1.JPG "Sample 3 - Day 0 - 1")
+
+#### Day 8
+
+![](/PastureRecoveryStudy/sample-3/day-8/1.JPG "Sample 3 - Day 8 - 1")
+![](/PastureRecoveryStudy/sample-3/day-8/2.JPG "Sample 3 - Day 8 - 2")
