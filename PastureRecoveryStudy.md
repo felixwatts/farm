@@ -26,6 +26,27 @@ To measure the recovery time, a small section of ungrazed pasture with a represe
 ![](/PastureRecoveryStudy/sample-1/day-8/4.JPG "Sample 1 - Day 8 - 4")
 ![](/PastureRecoveryStudy/sample-1/day-8/5.JPG "Sample 1 - Day 8 - 5")
 
+#### Day 15
+
+![](/PastureRecoveryStudy/sample-1/day-15/1.JPG "Sample 1 - Day 15 - 1")
+![](/PastureRecoveryStudy/sample-1/day-15/2.JPG "Sample 1 - Day 15 - 2")
+![](/PastureRecoveryStudy/sample-1/day-15/3.JPG "Sample 1 - Day 15 - 3")
+![](/PastureRecoveryStudy/sample-1/day-15/4.JPG "Sample 1 - Day 15 - 4")
+![](/PastureRecoveryStudy/sample-1/day-15/5.JPG "Sample 1 - Day 15 - 5")
+
+#### Day 27
+
+![](/PastureRecoveryStudy/sample-1/day-27/1.JPG "Sample 1 - Day 27 - 1")
+![](/PastureRecoveryStudy/sample-1/day-27/2.JPG "Sample 1 - Day 27 - 2")
+![](/PastureRecoveryStudy/sample-1/day-27/3.JPG "Sample 1 - Day 27 - 3")
+![](/PastureRecoveryStudy/sample-1/day-27/4.JPG "Sample 1 - Day 27 - 4")
+![](/PastureRecoveryStudy/sample-1/day-27/5.JPG "Sample 1 - Day 27 - 5")
+
+#### Day 42
+
+![](/PastureRecoveryStudy/sample-1/day-42/1.JPG "Sample 1 - Day 42 - 1")
+![](/PastureRecoveryStudy/sample-1/day-42/2.JPG "Sample 1 - Day 42 - 2")
+
 ### Sample 2: Dock
 
 #### Control (prior to mowing)
@@ -41,6 +62,20 @@ To measure the recovery time, a small section of ungrazed pasture with a represe
 ![](/PastureRecoveryStudy/sample-2/day-8/1.JPG "Sample 2 - Day 8 - 1")
 ![](/PastureRecoveryStudy/sample-2/day-8/2.JPG "Sample 2 - Day 8 - 2")
 
+#### Day 15
+
+![](/PastureRecoveryStudy/sample-2/day-15/1.JPG "Sample 2 - Day 15 - 1")
+![](/PastureRecoveryStudy/sample-2/day-15/2.JPG "Sample 2 - Day 15 - 2")
+
+#### Day 27
+
+![](/PastureRecoveryStudy/sample-2/day-27/1.JPG "Sample 2 - Day 27 - 1")
+![](/PastureRecoveryStudy/sample-2/day-27/2.JPG "Sample 2 - Day 27 - 2")
+
+#### Day 42
+
+![](/PastureRecoveryStudy/sample-2/day-42/1.JPG "Sample 2 - Day 42 - 1")
+
 ### Sample 3: Creeping Thistle
 
 #### Control (prior to mowing)
@@ -55,3 +90,18 @@ To measure the recovery time, a small section of ungrazed pasture with a represe
 
 ![](/PastureRecoveryStudy/sample-3/day-8/1.JPG "Sample 3 - Day 8 - 1")
 ![](/PastureRecoveryStudy/sample-3/day-8/2.JPG "Sample 3 - Day 8 - 2")
+
+#### Day 15
+
+![](/PastureRecoveryStudy/sample-3/day-15/1.JPG "Sample 3 - Day 15 - 1")
+![](/PastureRecoveryStudy/sample-3/day-15/2.JPG "Sample 3 - Day 15 - 2")
+
+#### Day 27
+
+![](/PastureRecoveryStudy/sample-3/day-27/1.JPG "Sample 3 - Day 27 - 1")
+![](/PastureRecoveryStudy/sample-3/day-27/2.JPG "Sample 3 - Day 27 - 2")
+
+#### Day 42
+
+![](/PastureRecoveryStudy/sample-3/day-42/1.JPG "Sample 3 - Day 42 - 1")
+![](/PastureRecoveryStudy/sample-3/day-42/2.JPG "Sample 3 - Day 42 - 2")
