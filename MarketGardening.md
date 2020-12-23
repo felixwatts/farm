@@ -221,8 +221,6 @@ Supplier: [Starlight Packaging](https://starlightpackaging.co.uk/roll-x-750mm-30
 
 A permeable but light-proof bed covering material that is laid directly on the bed to prevent germination on beds that are not in use. Should be cut to the bed size plus a 10cm border and can be pinned in place with [Horticultural Staples](#horticultural-staples)
 
-Supplier [Amazon](https://www.amazon.co.uk/Popamazing-Control-Nonwoven-Fabric-Biodegradable/dp/B074WMCKPP), http://bit.ly/2zXArdt
-
 ### Compost
 
 ### Stone Dust

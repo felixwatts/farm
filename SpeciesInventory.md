@@ -5,7 +5,7 @@ This is a list of all the plants that I have found living on my land, arranged b
 ## April 2020
 
 Bracken
-Nettle
+Stinging Nettle
 Bramble
 Bluebell
 Dog rose
@@ -26,15 +26,20 @@ Oak
 Dogs mercury
 Clover
 Dandelion
-Thistle
+Creeping Thistle
 Goose grass
 Rush
 Sycamore
 Holly
 Forget me not
 Foxglove
-Male Fern (?)
+(Scaly) Male Fern (?)
 Cow Parsnip (?)
+Sweet vernal grass
+Meadow buttercup
+Stitchwort
+Old Man's Beard
+Red Campion
 
 TODO identify grass species
 TODO identify other unknown species
