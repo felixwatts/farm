@@ -7,7 +7,9 @@
 | [B&T World Seeds](https://b-and-t-world-seeds.com/) | `seeds` | |
 | [Frank Matthews](https://www.frankpmatthews.com/) | `trees` | |
 | [Buckingham Nurseries](https://www.hedging.co.uk/acatalog/index.html) | `plants` | |
-| [Ash Ridge](https://www.ashridgetrees.co.uk) | `trees` | |
+| [Ash Ridge](https://www.ashridgetrees.co.uk) | `trees` | Relatively expensive |
+| [Bowhayes Trees](https://www.bowhayestrees.co.uk/) | `trees`  | Local to me with good prices on native bare root whips|
+| [Trees Please](https://http://www.treesplease.co.uk/) | `trees` | Very good prices on bare root whips. Good selection |
 | [Broadfork Supplier](http://www.blackberrylane.co.uk/broadfork.html) | `tools` | |
 | [Irrigation Systems](http://www.access-irrigation.co.uk/) | `tools` | |
 | [Cardboard Roll](https://starlightpackaging.co.uk/roll-x-750mm-30-x-75mtr-corrugated-paper/?gclid=Cj0KCQjwqs3rBRCdARIsADe1pfSJDHjhSdZwfBEE_ubhfMD7QD4gKvQKsMXMBlMR3biz3vVoRtDakLEaAjjmEALw_wcB) | `materials` | |
@@ -15,7 +17,7 @@
 | [Brookridge Timber](https://brookridgegroup.co.uk/) | Very local timber and timber products supplier. Does cabins and barns | `materials` `building` |
 | [Inside Out Buildings](https://www.insideoutbuildings.co.uk/) | Very local bespoke timber building company, sheds, cabins etc. | `building` |
 | [Christopher Edwardes](https://m.facebook.com/christopher.edwardes?fref=nf) | Guy in Lewes who sells mobile cabins made from old russian trucks. Seem cheap and good. | `building` |
-
+| [The Grass Seed Store](https://www.thegrassseedstore.co.uk/supplier/green-manure/cut-compost/) | `seeds` | A green manure mix for composting | 
 
 ## Websites
 
@@ -29,6 +31,7 @@
 | [Soil and Health](https://soilandhealth.org/) | free downloadable e-books about radical agriculture, natural hygiene/nature cure and self-sufficient homestead living |
 | [Agroforestry Trust](https://www.agroforestry.co.uk/) | Information on perenial crops and trees |
 | [Steward](https://gosteward.com) | Startup that funds regenerative farms |
+| [](https://www.forestergis.com/Apps/MapBrowser/) | Forestry Commission 
 
 ## Authors
 
