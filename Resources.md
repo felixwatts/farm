@@ -18,6 +18,7 @@
 | [Inside Out Buildings](https://www.insideoutbuildings.co.uk/) | Very local bespoke timber building company, sheds, cabins etc. | `building` |
 | [Christopher Edwardes](https://m.facebook.com/christopher.edwardes?fref=nf) | Guy in Lewes who sells mobile cabins made from old russian trucks. Seem cheap and good. | `building` |
 | [The Grass Seed Store](https://www.thegrassseedstore.co.uk/supplier/green-manure/cut-compost/) | `seeds` | A green manure mix for composting | 
+| [Cotswold Seeds](https://www.cotswoldseeds.com/) | `seeds` | Herbal lay mixes for pasture
 
 ## Websites
 
